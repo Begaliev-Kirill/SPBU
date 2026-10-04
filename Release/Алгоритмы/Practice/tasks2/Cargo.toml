@@ -1,0 +1,10 @@
+[package]
+name = "tasks2"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+[[bin]]
+name = "task8"
+path = "src/bin/task8.rs"
